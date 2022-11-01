@@ -3,7 +3,6 @@ layout: single
 title: "프로젝트환경설정"
 ---
 
-# 프로젝트 환경설정
 
 ### #Spring initializr
 
