@@ -3,10 +3,10 @@ layout: single
 title: "프로젝트환경설정"
 ---
 
-
 ### #Spring initializr
 
-![Untitled.png](/posts/2022-11-01-project preference.md/Untitled.png)
+![Untitled](E:\github\atwls-github-blog\athwls.github.io\images\2022-11-01-project prefrence\Untitled.png)
+
 
 
 **Gradle project vs Maven project**
@@ -14,18 +14,25 @@ title: "프로젝트환경설정"
 버전을 설정하고 라이브러리를 땡겨옴
 
 
+
+
 **Dependencies**
 
 어떤 라이브러리를 땡겨쓸 것인지 선택
 
+
+
 **Thymeleaf**
 
-
 html을 만들어주는 템플릿 엔진
+
+
 
 **.idea**
 
 인텔리제이가 사용하는 설정파일
+
+
 
 
 **main vs test**
@@ -35,9 +42,13 @@ main → java, resource
 test → test 코드들과 관련된 소스들이 존재
 
 
+
+
 ### #라이브러리
 
 Gradle은 의존 관계가 있는 라이브러리를 함께 다운로드 한다.
+
+
 
 
 **스프링부트 라이브러리**
@@ -53,18 +64,26 @@ Gradle은 의존 관계가 있는 라이브러리를 함께 다운로드 한다.
         - logback, slf4j
         
         
+
 **테스트 라이브러리**
 
 - spring-boot-starter-test
     - junit : 테스트 프레임워크
+    
     - mockito : 목 라이브러리
+    
     - assertj : 테스트 코드를 좀 더 편하게 작성하게 도와주는 라이브러리
+    
     - spring-test : 스프링 통합 테스트 지원
+    
+      
     
 
 **External Libraries**
 
 땡겨오는 라이브러리들 (tomcat 내장해서 올라옴)
+
+
 
 
 **logging**
