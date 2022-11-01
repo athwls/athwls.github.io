@@ -6,7 +6,7 @@ title: "프로젝트환경설정"
 
 ### #Spring initializr
 
-![Untitled.png](/assets/images/posts/2022-11-01/Untitled.png)
+![Untitled.png](/assets/images/posts/2022-11-01-project preference.md/Untitled.png)
 
 
 **Gradle project vs Maven project**
