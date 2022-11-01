@@ -5,7 +5,7 @@ title: "프로젝트환경설정"
 
 ### #Spring initializr
 
-![Untitled](E:\github\atwls-github-blog\athwls.github.io\images\2022-11-01-project prefrence\Untitled.png)
+![Untitled](../images/2022-11-01-project prefrence/Untitled-1667289355129-3.png)
 
 
 
