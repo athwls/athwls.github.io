@@ -4,6 +4,9 @@ title:  "[JAVA] 커맨드 라인으로 컴파일, 빌드 및 실행"
 categories: java
 tag: java
 toc: true
+author_profile: false
+sidebar:
+  nav: "docs"
 ---
 
 학원에서 Java 수업을 들을 때 커맨드 라인에서 컴파일, 프로그램 실행, 배포를 해보았었는데 컴파일, 빌드, 배포라는 개념을 이해하지 못한 채로 명령어만 급하게 따라 적기 바빴었다. 강의에 동일한 부분이 언급되기에 이번 기회에 완전히 이해해보기로 했다.
