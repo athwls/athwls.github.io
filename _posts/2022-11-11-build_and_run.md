@@ -24,7 +24,6 @@ sidebar:
 - 컴파일을 해주는 프로그램을 컴파일이라고 함
 
 
-
 커맨드 라인에서 명령어로 컴파일을 해보겠다.
 
 
@@ -44,6 +43,7 @@ javac -d <컴파일 결과물을 저장할 경로> <컴파일할 .java 파일>
     
 
 **주의!** helloLILY.java라고 이름을 저장해도 JAVA파일이 아닌 텍스트 파일 형식으로 되어 있다면 아래와 같은 에러가 발생한다.
+{: .notice--warning}
 
 ![Untitled 2](../images/2022-11-11-build_and_run/Untitled 2.png)
 
@@ -141,7 +141,8 @@ jar <option> <jar 파일 이름> <최상위 패키지 경로>
     - .jar 파일을 만들 때 Mainfest 파일도 함께 넣겠단 의미 (Manifest 파일 위치도 함께 알려줌)
     
 
-주의! 파일 이름을 Manifest만 입력해야 함 → 그렇지 않을 경우 Mainfest.txt.txt로 읽어 원하는 파일을 찾아가지 못해 아래와 같이 에러가 발생함
+**주의!** 파일 이름을 Manifest만 입력해야 함 → 그렇지 않을 경우 Mainfest.txt.txt로 읽어 원하는 파일을 찾아가지 못해 아래와 같이 에러가 발생함
+{: .notice--warning}
 
 ![Untitled 8](../images/2022-11-11-build_and_run/Untitled 8.png)
 
@@ -156,7 +157,8 @@ jar <option> <jar 파일 이름> <최상위 패키지 경로>
 
 ![Untitled 9](../images/2022-11-11-build_and_run/Untitled 9.png)
 
-주의! Mainfest.txt 파일에 Class-Path: com.lily.HelloLILY 와 같이 입력한 후 Enter를 입력하지 않으면 공백이 없어 인식을 하지 못해 아래와 같은 에러가 발생할 수 있음
+**주의!** Mainfest.txt 파일에 Class-Path: com.lily.HelloLILY 와 같이 입력한 후 Enter를 입력하지 않으면 공백이 없어 인식을 하지 못해 아래와 같은 에러가 발생할 수 있음
+{: .notice--warning}
 
 ![Untitled 10](../images/2022-11-11-build_and_run/Untitled 10.png)
 
@@ -176,7 +178,6 @@ jar <option> <jar 파일 이름> <최상위 패키지 경로>
 
 
 ### 참조
+위 글은 Pope Kim님의 개체지향 프로그래밍 및 설계(Java)를 듣고 작성한 글입니다.
 
-위 글은 Pope Kim님의 개체지향 프로그래밍 및 설계(Java)를 듣고 작성한 글입니다. 
-
-[](https://www.udemy.com/course/object-oriented-programming-and-design-by-pocu/)
+[개체지향 프로그래밍 및 설계(Java)](https://www.udemy.com/course/object-oriented-programming-and-design-by-pocu/)
