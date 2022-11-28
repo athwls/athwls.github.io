@@ -1,4 +1,13 @@
-# [컴퓨터 구조와 운영체제] 컴퓨터 구조의 큰 그림
+---
+layout: single
+title:  "[컴퓨터 구조와 운영체제] 컴퓨터 구조의 큰 그림"
+categories: java
+tag: computer structure&OS
+toc: true
+author_profile: false
+sidebar:
+  nav: "docs"
+---
 
 ## 컴퓨터 구조와 운영체제를 공부하는 이유
 
