@@ -1,8 +1,8 @@
 ---
 layout: single
 title:  "[컴퓨터 구조와 운영체제] 컴퓨터 구조의 큰 그림"
-categories: computer structure&OS
-tag: computer structure&OS
+categories: ComputerStructure&OS
+tag: ComputerStructure&OS
 toc: true
 author_profile: false
 sidebar:
