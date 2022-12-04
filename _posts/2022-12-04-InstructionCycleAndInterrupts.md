@@ -1,4 +1,14 @@
-# [컴퓨터 구조와 운영체제]CPU의 작동원리
+---
+layout: single
+title:  "[컴퓨터 구조와 운영체제] CPU의 작동원리"
+categories: ComputerStructure&OS
+tag: ComputerStructure&OS
+toc: true
+author_profile: false
+sidebar:
+  nav: "docs"
+---
+
 
 ## ALU
 
