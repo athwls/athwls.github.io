@@ -1,4 +1,13 @@
-# [컴퓨터 구조와 운영체제]CPU 성능 향상 기법1-빠른 CPU를 위한 설계 기법
+---
+layout: single
+title:  "[컴퓨터 구조와 운영체제] CPU 성능 향상 기법1-빠른 CPU를 위한 설계 기법"
+categories: ComputerStructure&OS
+tag: ComputerStructure&OS
+toc: true
+author_profile: false
+sidebar:
+  nav: "docs"
+---
 
 빠른 CPU를 만드는 설계 기법에는 클럭과 멀티코어, 멀티스레드가 있음 
 
