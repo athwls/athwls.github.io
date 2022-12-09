@@ -1,4 +1,13 @@
-# [컴퓨터 구조와 운영체제]CPU 성능 향상 기법2-명령어 병렬 처리 기법
+---
+layout: single
+title:  "[컴퓨터 구조와 운영체제]CPU 성능 향상 기법2-명령어 병렬 처리 기법"
+categories: ComputerStructure&OS
+tag: ComputerStructure&OS
+toc: true
+author_profile: false
+sidebar:
+  nav: "docs"
+---
 
 빠른 CPU를 만들려면 높은 클럭 속도에 멀티코어, 멀티스레드를 지원하는 CPU를 만드는 것도 중요하지만, CPU가 놀지 않고 시간을 알뜰하게 쓰며 작동하게 만드는 것도 중요함
 
